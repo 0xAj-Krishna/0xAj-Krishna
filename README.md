@@ -22,7 +22,7 @@
 
 ## 🛠️ Skills & Tools  
 - **Technical Skills**: VAPT, Web & API Security, Bash Scripting  
-- **Programming**: Python, JavaScript, HTML/CSS  
+- **Programming**: Python, JavaScript, HTML/CSS, React, Next.js, Typescript   
 - **Operating Systems**: Linux, Windows  
 - **Tools**: Burp Suite, Nmap, SQLMap, Wireshark   
 
