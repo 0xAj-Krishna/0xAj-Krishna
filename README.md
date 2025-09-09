@@ -13,10 +13,6 @@
 - 🔍 Experienced in **VAPT (Web & API Hacking, OWASP Top 10)**  
 - 👯 I’m actively looking to collaborate on Bug Hunting Projects.  
 - ⚡ Fun fact I enjoy Playing CTF and Pwn Machines on HTB and THM. 
-- 📜 Certified in:  
-  - Ethical Hacking Essentials (EHE)  
-  - Cybersecurity Analyst Job Simulation – Tata  
-  - MITRE ATT&CK | AttackIQ Foundations  
 
 ---
 
